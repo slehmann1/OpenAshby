@@ -1,0 +1,362 @@
+Category,Type,Subcategory,Mechanical Property Data Source(s),Name,Treatment or temper,"Ultimate Tensile Strength
+(psi)","Ultimate Yield Strength
+(psi)","Ultimate Tensile Strength
+(Mpa)","Ultimate Yield Strength
+(Mpa)",Elongation (%),"Reduction in Cross Sectional Area
+(%)",Brinell Hardness,"Izod Impact Stength
+(Ft-lb)","Izod Impact Stength
+(N-m)","Ultimate Shearing Strength
+(ksi)","Ultimate Shearing Strength
+(Mpa)","Endurance limit
+(ksi)","Endurance limit
+(MPa)"
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1015,As-rolled,"61,000","45,500",420.58,313.71,39,61,126,81.5,110.51,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1015,Normalized (1700F),"61,500","47,000",424.03,324.05,37,69.6,121,85.2,115.53,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1015,Annealed (1600F),"56,000","41,250",386.11,284.41,37,69.7,111,84.8,114.99,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1020,As-rolled,"65,000","48,000",448.16,330.95,36,59,143,64,86.78,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1020,Normalized (1600 F),"64,000","50,250",441.26,346.46,35.8,67.9,131,86.8,117.7,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1020,Annealed (1600 F),"57,250","42,750",394.73,294.75,36.5,66,111,91,123.4,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1022,As-rolled,"73,000","52,000",503.32,358.53,35,67,149,60,81.36,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1022,Normalized (1700F),"70,000","52,000",482.63,358.53,34,67.5,143,86.5,117.29,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1022,Annealed (1600F),"65,250","46,000",449.88,317.16,35,63.6,137,89,120.68,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1030,As-rolled,"80,000","50,000",551.58,344.74,32,57,179,55,74.58,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1030,Normalized (1700F(,"75,000","50,000",517.11,344.74,32,60.8,149,69,93.56,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1030,Annealed (1550F),"67,250","49,500",463.67,341.29,31.2,57.9,126,51.2,69.43,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1040,As-rolled,"90,000","60,000",620.53,413.69,25,50,201,36,48.82,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1040,Normalized(1650F),"85,500","54,250",589.5,374.04,28,54.9,170,48,65.09,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1040,Annealed(1450F),"75,250","51,250",518.83,353.36,30.2,57.2,149,32.7,44.34,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1050,As-rolled,"105,000","60,000",723.95,413.69,20,40,229,23,31.19,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1050,Normalized(1650F),"108,500","62,000",748.08,427.48,20,39.4,217,20,27.12,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1050,Annealed(1450F),"92,250","53,000",636.04,365.42,23.7,39.9,187,12.5,16.95,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1060,As-rolled,"118,000","70,000",813.58,482.63,17,34,241,13,17.63,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1060,Normalized(1650F),"112,500","61,000",775.66,420.58,18,37.2,229,9.7,13.15,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1060,Annealed(1450F),"90,750","54,000",625.7,372.32,22.5,38.2,179,8.3,11.25,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1080,As-rolled,"140,000","85,000",965.27,586.05,12,17,293,5,6.78,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1080,Normalized(1650F),"146,500","76,000",1010.08,524,11,20.6,293,5,6.78,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1080,Annealed(1450F),"89,250","54,500",615.36,375.76,24.7,45,174,4.5,6.1,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1095,As-rolled,"140,000","83,000",965.27,572.27,9,18,293,3,4.07,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1095,Normalized(1650F),"147,000","72,500",1013.53,499.87,9.5,13.5,293,4,5.42,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1095,Annealed(1450F),"95,250","55,000",656.73,379.21,13,20.6,192,2,2.71,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1117,As-rolled,"70,600","44,300",486.77,305.44,33,63,143,60,81.36,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1117,Normalized(1650F),"67,750","44,000",467.12,303.37,33.5,63.8,137,62.8,85.16,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1117,Annealed(1575F),"62,250","40,500",429.2,279.24,32.8,58,121,69,93.56,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1118,As-rolled,"75,600","45,900",521.24,316.47,32,70,149,80,108.48,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1118,Normalized(1700F),"69,250","46,250",477.46,318.88,33.5,65.9,143,76.3,103.46,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1118,Annealed(1450F),"65,250","41,250",449.88,284.41,34.5,66.8,131,78.5,106.45,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1137,As-rolled,"91,000","55,000",627.42,379.21,28,61,192,61,82.72,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1137,Normalized(1650F),"97,000","57,500",668.79,396.45,22.5,48.5,197,47,63.73,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1137,Annealed(1450F),"84,750","50,000",584.33,344.74,26.8,53.9,174,36.8,49.9,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1141,As-rolled,"98,000","52,000",675.69,358.53,22,38,192,8.2,11.12,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1141,Normalized(1650F),"102,500","58,750",706.71,405.07,22.7,55.5,201,38.8,52.61,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1141,Annealed(1500F),"86,800","51,200",598.47,353.01,25.5,49.3,163,25.3,34.31,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1144,As-rolled,"102,000","61,000",703.27,420.58,21,41,212,39,52.88,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1144,Normalized(1650F),"96,750","58,000",667.07,399.9,21,40.4,197,32,43.39,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 466",1144,Annealed(1450F),"84,750","50,250",584.33,346.46,24.8,41.3,167,48,65.09,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",1340,Normalized(1600F),"121,250","81,000",835.99,558.48,22,62.9,248,68.2,92.48,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",1340,Annealed(1475F),"102,000","63,250",703.27,436.09,25.5,57.3,207,52,70.51,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",3140,Normalized(1600F),"129,250","87,000",891.15,599.84,19.7,57.3,262,39.5,53.56,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",3140,Annealed(1500F),"100,000","61,250",689.48,422.3,24.5,50.8,197,34.2,46.38,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",4130,Normalized(1600F),"97,000","63,250",668.79,436.09,25.5,59.5,197,63.7,86.38,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",4130,Annealed(1585F),"81,250","52,250",560.2,360.25,28.2,55.6,156,45.5,61.7,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",4140,Normalized(1600F),"148,000","95,000",1020.42,655,17.7,46.8,302,16.7,22.65,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",4140,Annealed(1500F),"95,000","60,500",655,417.13,25.7,56.9,197,40.2,54.51,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",4150,Normalized(1600F),"167,500","106,500",1154.87,734.29,11.7,30.8,321,8.5,11.53,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",4150,Annealed(1500F),"105,750","55,000",729.12,379.21,20.2,40.2,197,18.2,24.68,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",4320,Normalized(1640F),"115,000","67,250",792.9,463.67,20.8,50.7,235,53.8,72.95,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",4320,Annealed(1560F),"84,000","61,625",579.16,424.89,29,58.4,163,81,109.84,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",4340,Normalized(1600F),"185,500","125,000",1278.98,861.85,12.2,36.3,363,11.7,15.87,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",4340,Annealed(1490F),"108,000","68,500",744.63,472.29,22,49.9,217,37.7,51.12,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",4620,Normalized(1650F),"83,250","53,125",573.99,366.28,29,66.7,174,98,132.89,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",4620,Annealed(1575F),"74,250","54,000",511.94,372.32,31.3,60.3,149,69,93.56,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",4820,Normalized(1580F),"109,500","70,250",754.98,484.36,24,59.2,229,81,109.84,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",4820,Annealed(1500F),"98,750","67,250",680.86,463.67,22.3,58.8,197,68.5,92.89,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",5140,Normalized(1600F),"115,000","68,500",792.9,472.29,22.7,59.2,229,28,37.97,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",5140,Annealed(1525F),"83,000","42,500",572.27,293.03,28.6,57.3,167,30,40.68,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",5150,Normalized(1600F),"126,250","76,750",870.46,529.17,20.7,58.7,255,23.2,31.46,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",5150,Annealed(1520F),"98,000","51,750",675.69,356.8,22,43.7,197,18.5,25.09,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",5160,Normalized(1575F),"138,750","77,000",956.65,530.9,17.5,44.8,269,8,10.85,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",5160,Annealed(1495F),"104,750","40,000",722.23,275.79,17.2,30.6,197,7.4,10.03,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",6150,Normalized(1600F),"136,250","89,250",939.41,615.36,21.8,61,269,26.2,35.53,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",6150,Annealed(1500F),"96,750","59,750",667.07,411.96,23,48.4,197,20.2,27.39,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",8620,Normalized(1675F),"91,750","51,750",632.59,356.8,26.3,59.7,183,73.5,99.67,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",8620,Annealed(1600F),"77,750","55,875",536.07,385.24,31.3,62.1,149,82.8,112.28,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",8630,Normalized(1600F),"94,250","62,250",649.83,429.2,23.5,53.5,187,69.8,94.65,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",8630,Annealed(1550F),"81,750","54,000",563.65,372.32,29,58.9,156,70.2,95.19,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",8650,Normalized(1600F),"148,500","99,750",1023.87,687.75,14,40.4,302,10,13.56,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",8650,Annealed(1465F),"103,750","56,000",715.33,386.11,22.5,46.4,212,21.7,29.43,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",8740,Normalized(1600F),"134,750","88,000",929.07,606.74,16,47.9,269,13,17.63,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",8740,Annealed(1500F),"100,750","60,250",694.65,415.41,22.2,46.4,201,29.5,40,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",9255,Normalized(1650F),"135,250","84,000",932.52,579.16,19.7,43.4,269,10,13.56,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",9255,Annealed(1550F),"112,250","70,500",773.94,486.08,21.7,41.1,229,6.5,8.81,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",9310,Normalized(1630F),"131,500","82,750",906.66,570.54,18.8,58.1,269,88,119.33,,,,
+Metal,Steel,Carbon and Alloy Steels,"Machinery's Handbook 27th edition, Pg. 467",9310,Annealed(1550F),"119,000","63,750",820.48,439.54,17.3,42.1,241,58,78.65,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",201.0-T7,,60,50,413.69,344.74,3,125,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",204.0-T4,,45,28,310.26,193.05,6,,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",208.0-F,,19,12,131,82.74,1.5,55,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",222.0-O,,23,,158.58,,,80,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",222.0-T61,,30,,206.84,,,115,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",242.0-O,,23,,158.58,,,70,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",242.0-T571,,29,,199.95,,,85,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",242.0-T61,,32,20,220.63,137.9,,105,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",242.0-T77,,24,13,165.47,89.63,1,75,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",295.0-T4,,29,13,199.95,89.63,6,60,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",295.0-T6,,32,20,220.63,137.9,3,75,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",295.0-T62,,36,28,248.21,193.05,,95,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",295.0-T7,,29,16,199.95,110.32,3,70,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",319.0-F,,23,13,158.58,89.63,1.5,70,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",319.0-T5,,25,,172.37,,,80,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",319.0-T6,,31,20,213.74,137.9,1.5,80,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",328.0-F,,25,14,172.37,96.53,1,60,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",328.0-T6,,34,21,234.42,144.79,1,80,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",355.0-T51,,25,18,172.37,124.11,,65,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",355.0-T6,,32,20,220.63,137.9,2,87.5,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",355.0-T7,,35,,241.32,,,85,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",355.0-T71,,30,22,206.84,151.68,,77.5,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",C355.0.0-T6,,36,25,248.21,172.37,2.5,90,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",356.0-F,,19,,131,,2,55,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",356.0-T51,,23,16,158.58,110.32,,60,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",356.0-T6,,30,20,206.84,137.9,3,72.5,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",356.0-T7,,31,29,213.74,199.95,,75,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",356.0-T71,,25,18,172.37,124.11,3,60,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",A356.0.0-T6,,34,24,234.42,165.47,3.5,87.5,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",443.0-F,,17,7,117.21,48.26,3,40,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",B443.0.0-F,,17,6,117.21,41.37,3,40,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",512.0-F,,17,10,117.21,68.95,,50,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",514.0-F,,22,9,151.68,62.05,6,50,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",520.0-T4c,,42,22,289.58,151.68,12,75,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",535.0-F or T5,,35,18,241.32,124.11,9,75,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",705.0-F or T5,,30,17,206.84,117.21,5,65,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",707.0-T5,,33,22,227.53,151.68,2,85,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",707.0-T7,,37,30,255.11,206.84,1,80,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",710.0-F or T5,,32,20,220.63,137.9,2,75,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",712.0-F or T5,,34,25,234.42,172.37,4,75,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",713.0-F or T5,,32,22,220.63,151.68,3,75,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",771.0-T5,,42,38,289.58,262,1.5,100,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",771.0-T51,,32,27,220.63,186.16,3,85,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",771.0-T52,,36,30,248.21,206.84,1.5,85,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",771.0-T53,,36,27,248.21,186.16,1.5,,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",771.0-T6,,42,35,289.58,241.32,5,90,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",771.0-T71,,48,45,330.95,310.26,2,120,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",850.0-T5,,16,,110.32,,5,45,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 576",851.0-T5,,17,,117.21,,3,45,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",204.0-T4,,48,29,330.95,199.95,8,,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",208.0-T4,,33,15,227.53,103.42,4.5,75,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",208.0-T6,,35,22,241.32,151.68,2,90,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",208.0-T7,,33,16,227.53,110.32,3,80,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",222.0-T551,,30,,206.84,,,115,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",222.0-T65,,40,,275.79,,,140,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",242.0-T571,,34,,234.42,,,105,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",242.0-T61,,40,,275.79,,,110,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",296.0-T6,,35,,241.32,,2,90,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",308.0-F,,24,,165.47,,,70,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",319.0-F,,28,14,193.05,96.53,1.5,85,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",319.0-T6,,34,,234.42,,2,90,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",332.0-T5,,31,,213.74,,,105,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",333.0-F,,28,,193.05,,,82.5,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",333.0-T5,,30,,206.84,,,87.5,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",333.0-T6,,35,,241.32,,,100,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",333.0-T7,,31,,213.74,,,90,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",336.0-T551,,31,,213.74,,,105,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",336.0-T65,,40,,275.79,,,125,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",354.0-T61,,48,37,330.95,255.11,3,,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",354.0-T62,,52,42,358.53,289.58,2,,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",355.0-T51,,27,,186.16,,,75,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",355.0-T6,,37,,255.11,,1.5,90,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",355.0-T62,,42,,289.58,,,105,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",355.0-T7,,36,,248.21,,,85,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",355.0-T71,,34,27,234.42,186.16,,80,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",C355.0.0-T61,,40,30,275.79,206.84,3,90,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",356.0-F,,21,,144.79,,3,55,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",356.0-T51,,25,,172.37,,,70,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",356.0-T6,,33,22,227.53,151.68,3,80,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",356.0-T7,,25,,172.37,,3,75,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",356.0-T71,,25,,172.37,,3,75,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",A356.0.0-T61,,37,26,255.11,179.26,5,85,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",357.0-T6,,45,,310.26,,3,90,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",A357.0.0-T61,,45,36,310.26,248.21,3,100,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",359.0-T61,,45,34,310.26,234.42,4,90,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",359.0-T62,,47,38,324.05,262,3,100,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",443.0-F,,21,7,144.79,48.26,2,45,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",B443.0.0-F,,21,6,144.79,41.37,2.5,45,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",A444.0.0-T4,,20,,137.9,,20,,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",513.0-F,,22,12,151.68,82.74,2.5,60,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",535.0-F,,35,18,241.32,124.11,8,75,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",705.0-T5,,37,17,255.11,117.21,10,70,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",707.0-T7,,45,35,310.26,241.32,3,95,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",711.0-T1,,28,18,193.05,124.11,7,70,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",713.0-T5,,32,22,220.63,151.68,4,75,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",850.0-T5,,18,,124.11,,8,45,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",851.0-T5,,17,,117.21,,3,45,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",851.0-T6,,18,,124.11,,8,,,,,,,,
+Metal,Aluminium,Casting Alloys,"Machinery's Handbook 27th edition, Pg. 577",852.0-T5,,27,,186.16,,3,70,,,,,,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",1060-O,,10,4,68.95,27.58,43,19,,,,7,48.26,3,20.68
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",1060-H12,,12,11,82.74,75.84,16,23,,,,8,55.16,4,27.58
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",1060-H14,,14,13,96.53,89.63,12,26,,,,9,62.05,5,34.47
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",1060-H16,,16,15,110.32,103.42,8,30,,,,10,68.95,6.5,44.82
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",1060-H18,,19,18,131,124.11,6,35,,,,11,75.84,6.5,44.82
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",1100-O,,13,5,89.63,34.47,40,23,,,,9,62.05,5,34.47
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",1100-H12,,16,15,110.32,103.42,18.5,28,,,,10,68.95,6,41.37
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",1100-H14,,18,17,124.11,117.21,14.5,32,,,,11,75.84,7,48.26
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",1100-H16,,21,20,144.79,137.9,11.5,38,,,,12,82.74,9,62.05
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",1100-H18,,24,22,165.47,151.68,10,44,,,,13,89.63,9,62.05
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",1350-O,,12,4,82.74,27.58,,,,,,8,55.16,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",1350-H12,,14,12,96.53,82.74,,,,,,9,62.05,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",1350-H14,,16,14,110.32,96.53,,,,,,10,68.95,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",1350-H16,,18,16,124.11,110.32,,,,,,11,75.84,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",1350-H19,,27,24,186.16,165.47,,,,,,15,103.42,7,48.26
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",2011-T3,,55,43,379.21,296.47,15,95,,,,32,220.63,18,124.11
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",2011-T8,,59,45,406.79,310.26,12,100,,,,35,241.32,18,124.11
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",2014-O,,27,14,186.16,96.53,18,45,,,,18,124.11,13,89.63
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580","2014-T4, T451",,62,42,427.48,289.58,20,105,,,,38,262,20,137.9
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580","2014-T6, T651",,70,60,482.63,413.69,13,135,,,,42,289.58,18,124.11
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",Alclad 2014-O,,25,10,172.37,68.95,21,,,,,18,124.11,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",Alclad 2014-T3,,63,40,434.37,275.79,20,,,,,37,255.11,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580","Alclad 2014-T4, T451",,61,37,420.58,255.11,22,,,,,37,255.11,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580","Alclad 2014-T6, T651",,68,60,468.84,413.69,10,,,,,41,282.69,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",2017-O,,26,10,179.26,68.95,22,45,,,,18,124.11,13,89.63
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580","2017-T4, T451",,62,40,427.48,275.79,22,105,,,,38,262,18,124.11
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",2018-T61,,61,46,420.58,317.16,12,120,,,,39,268.9,17,117.21
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",2024-O,,27,11,186.16,75.84,21,47,,,,18,124.11,13,89.63
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",2024-T3,,70,50,482.63,344.74,18,120,,,,41,282.69,20,137.9
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580","2024-T4, T351",,68,47,468.84,324.05,19.5,120,,,,41,282.69,20,137.9
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",2024-T361d,,72,57,496.42,393,13,130,,,,42,289.58,18,124.11
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",Alclad 2024-O,,26,11,179.26,75.84,20,,,,,18,124.11,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",Alclad 2024-T3,,65,45,448.16,310.26,18,,,,,40,275.79,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580","Alclad 2024-T4, T351",,64,42,441.26,289.58,19,,,,,40,275.79,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",Alclad 2024-T361,,67,53,461.95,365.42,11,,,,,41,282.69,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580","Alclad 2024-T81, T851",,65,60,448.16,413.69,6,,,,,40,275.79,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",Alclad 2024-T861,,70,66,482.63,455.05,6,,,,,42,289.58,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",2025-T6,,58,37,399.9,255.11,19,110,,,,35,241.32,18,124.11
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",2036-T4,,49,28,337.84,193.05,24,,,,,,,18e,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",2117-T4,,43,24,296.47,165.47,27,70,,,,28,193.05,14,96.53
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",2218-T72,,48,37,330.95,255.11,11,95,,,,30,206.84,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",2219-O,,25,11,172.37,75.84,18,,,,,,,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",2219-T42,,52,27,358.53,186.16,20,,,,,,,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580","2219-T31, T351",,52,36,358.53,248.21,17,,,,,,,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",2219-T37,,57,46,393,317.16,11,,,,,,,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",2219-T62,,60,42,413.69,289.58,10,,,,,,,15,103.42
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580","2219-T81, T851",,66,51,455.05,351.63,10,,,,,,,15,103.42
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",2219-T87,,69,57,475.74,393,10,,,,,,,15,103.42
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 580",3003-O,,16,6,110.32,41.37,35,28,,,,11,75.84,7,48.26
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",3003-H12,,19,18,131,124.11,15,35,,,,12,82.74,8,55.16
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",3003-H14,,22,21,151.68,144.79,12,40,,,,14,96.53,9,62.05
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",3003-H16,,26,25,179.26,172.37,9.5,47,,,,15,103.42,10,68.95
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",3003-H18,,29,27,199.95,186.16,7,55,,,,16,110.32,10,68.95
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",Alclad 3003-O,,16,6,110.32,41.37,35,,,,,11,75.84,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",Alclad 3003-H12,,19,18,131,124.11,15,,,,,12,82.74,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",Alclad 3003-H14,,22,21,151.68,144.79,12,,,,,14,96.53,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",Alclad 3003-H16,,26,25,179.26,172.37,9.5,,,,,15,103.42,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",Alclad 3003-H18,,29,27,199.95,186.16,7,,,,,16,110.32,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",3004-O,,26,10,179.26,68.95,22.5,45,,,,16,110.32,14,96.53
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",3004-H32,,31,25,213.74,172.37,13.5,52,,,,17,117.21,15,103.42
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",3004-H34,,35,29,241.32,199.95,10.5,63,,,,18,124.11,15,103.42
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",3004-H36,,38,33,262,227.53,7,70,,,,20,137.9,16,110.32
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",3004-H38,,41,36,282.69,248.21,5.5,77,,,,21,144.79,16,110.32
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",Alclad 3004-O,,26,10,179.26,68.95,22.5,,,,,16,110.32,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",Alclad 3004-H32,,31,25,213.74,172.37,13.5,,,,,17,117.21,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",Alclad 3004-H34,,35,29,241.32,199.95,10.5,,,,,18,124.11,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",Alclad 3004-H36,,38,33,262,227.53,7,,,,,20,137.9,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",Alclad 3004-H38,,41,36,282.69,248.21,5.5,,,,,21,144.79,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",3105-O,,17,8,117.21,55.16,24,,,,,12,82.74,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",3105-H12,,22,19,151.68,131,7,,,,,14,96.53,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",3105-H14,,25,22,172.37,151.68,5,,,,,15,103.42,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",3105-H16,,28,25,193.05,172.37,4,,,,,16,110.32,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",3105-H18,,31,28,213.74,193.05,3,,,,,17,117.21,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",3105-H25,,26,23,179.26,158.58,8,,,,,15,103.42,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",4032-T6,,55,46,379.21,317.16,9,120,,,,38,262,16,110.32
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",5005-O,,18,6,124.11,41.37,25,28,,,,11,75.84,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",5005-H12,,20,19,137.9,131,10,,,,,14,96.53,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",5005-H14,,23,22,158.58,151.68,6,,,,,14,96.53,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",5005-H16,,26,25,179.26,172.37,5,,,,,15,103.42,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",5005-H18,,29,28,199.95,193.05,4,,,,,16,110.32,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",5005-H32,,20,17,137.9,117.21,11,36,,,,14,96.53,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",5005-H34,,23,20,158.58,137.9,8,41,,,,14,96.53,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",5005-H36,,26,24,179.26,165.47,6,46,,,,15,103.42,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",5005-H38,,29,27,199.95,186.16,5,51,,,,16,110.32,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",5050-O,,21,8,144.79,55.16,24,36,,,,15,103.42,12,82.74
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",5050-H32,,25,21,172.37,144.79,9,46,,,,17,117.21,13,89.63
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",5050-H34,,28,24,193.05,165.47,8,53,,,,18,124.11,13,89.63
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",5050-H36,,30,26,206.84,179.26,7,58,,,,19,131,14,96.53
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",5050-H38,,32,29,220.63,199.95,6,63,,,,20,137.9,14,96.53
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",5052-O,,28,13,193.05,89.63,27.5,47,,,,18,124.11,16,110.32
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",5052-H32,,33,28,227.53,193.05,15,60,,,,20,137.9,17,117.21
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",5052-H34,,38,31,262,213.74,12,68,,,,21,144.79,18,124.11
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",5052-H36,,40,35,275.79,241.32,9,73,,,,23,158.58,19,131
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",5052-H38,,42,37,289.58,255.11,7.5,77,,,,24,165.47,20,137.9
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",5056-O,,42,22,289.58,151.68,35,65,,,,26,179.26,20,137.9
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",5056-H18,,63,59,434.37,406.79,10,105,,,,34,234.42,22,151.68
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",5056-H38,,60,50,413.69,344.74,15,100,,,,32,220.63,22,151.68
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 581",5083-O,,42,21,289.58,144.79,22,,,,,25,172.37,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5086-O,,38,17,262,117.21,22,,,,,23,158.58,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582","5086-H32, H116",,42,42,289.58,289.58,21,,,,,,,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5086-H34,,47,37,324.05,255.11,10,,,,,27,186.16,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5086-H112,,39,19,268.9,131,14,,,,,,,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5154-O,,35,17,241.32,117.21,27,58,,,,22,151.68,17,117.21
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5154-H32,,39,30,268.9,206.84,15,67,,,,22,151.68,18,124.11
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5154-H34,,42,33,289.58,227.53,13,73,,,,24,165.47,19,131
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5154-H36,,45,36,310.26,248.21,12,78,,,,26,179.26,20,137.9
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5154-H38,,48,39,330.95,268.9,10,80,,,,28,193.05,21,144.79
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5154-H112,,35,17,241.32,117.21,25,63,,,,,,17,117.21
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5252-H25,,34,25,234.42,172.37,11,68,,,,21,144.79,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582","5252-H38, H28",,41,41,282.69,282.69,20,,,,,75,517.11,23,158.58
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5254-O,,35,17,241.32,117.21,27,58,,,,22,151.68,17,117.21
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5254-H32,,39,30,268.9,206.84,15,67,,,,22,151.68,18,124.11
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5254-H34,,42,33,289.58,227.53,13,73,,,,24,165.47,19,131
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5254-H36,,45,36,310.26,248.21,12,78,,,,26,179.26,20,137.9
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5254-H38,,48,39,330.95,268.9,10,80,,,,28,193.05,21,144.79
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5254-H112,,35,17,241.32,117.21,25,63,,,,,,17,117.21
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5454-O,,36,17,248.21,117.21,22,62,,,,23,158.58,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5454-H32,,40,30,275.79,206.84,10,73,,,,24,165.47,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5454-H34,,44,35,303.37,241.32,10,81,,,,26,179.26,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5454-H111,,38,26,262,179.26,14,70,,,,23,158.58,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5454-H112,,36,18,248.21,124.11,18,62,,,,23,158.58,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5456-O,,45,23,310.26,158.58,24,,,,,,,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5456-H112,,45,24,310.26,165.47,22,,,,,,,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582","5456-H321, H116",,51,51,351.63,351.63,37,16,,,,90,620.53,30,206.84
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5457-O,,19,7,131,48.26,22,32,,,,12,82.74,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5457-H25,,26,23,179.26,158.58,12,48,,,,16,110.32,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582","5457-H38, H28",,30,30,206.84,206.84,16.5,,,,,55,379.21,18,124.11
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5652-O,,28,13,193.05,89.63,27.5,47,,,,18,124.11,16,110.32
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5652-H32,,33,28,227.53,193.05,15,60,,,,20,137.9,17,117.21
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5652-H34,,38,31,262,213.74,12,68,,,,21,144.79,18,124.11
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5652-H36,,40,35,275.79,241.32,9,73,,,,23,158.58,19,131
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5652-H38,,42,37,289.58,255.11,7.5,77,,,,24,165.47,20,137.9
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",5657-H25,,23,20,158.58,137.9,12,40,,,,14,96.53,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582","5657-H38, H28",,,28,,193.05,15.5,,,,,50,344.74,15,103.42
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",6061-O,,18,8,124.11,55.16,27.5,30,,,,12,82.74,9,62.05
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582","6061-T4, T451",,35,35,241.32,241.32,21.5,25,,,,65,448.16,24,165.47
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582","6061-T6, T651",,45,45,310.26,310.26,26,17,,,,95,655,30,206.84
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",6063-T1,,22,13,151.68,89.63,20,42,,,,14,96.53,9,62.05
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",6063-T4,,25,13,172.37,89.63,22,,,,,,,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",6063-T5,,27,21,186.16,144.79,12,60,,,,17,117.21,10,68.95
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",6063-T6,,35,31,241.32,213.74,12,73,,,,22,151.68,10,68.95
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",6063-T83,,37,35,255.11,241.32,9,82,,,,22,151.68,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",6063-T831,,30,27,206.84,186.16,10,70,,,,18,124.11,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 582",6063-T832,,42,39,289.58,268.9,12,95,,,,27,186.16,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 583",6066-O,,22,12,151.68,82.74,18,43,,,,14,96.53,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 584","6066-T4, T451",,52,30,358.53,206.84,41,,,,,18,124.11,90,620.53
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 585","6066-T6, T651",,57,52,393,358.53,52,12,,,,120,827.37,34,234.42
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 586",6070-T6,,55,51,379.21,351.63,10,,,,,34,234.42,14,96.53
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 587",6101-H111,,14,11,96.53,75.84,,,,,,,,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 588",6101-T6,,32,28,220.63,193.05,15,71,,,,20,137.9,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 589",6262-T9,,58,55,399.9,379.21,10,120,,,,35,241.32,13,89.63
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 590",6351-T4,,36,22,248.21,151.68,20,,,,,,,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 591",6351-T6,,45,41,310.26,282.69,14,95,,,,29,199.95,13,89.63
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 592",6463-T1,,22,13,151.68,89.63,20,42,,,,14,96.53,10,68.95
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 593",6463-T5,,27,21,186.16,144.79,12,60,,,,17,117.21,10,68.95
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 594",6463-T6,,35,31,241.32,213.74,21.5,,,,,74,510.21,22,151.68
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 595",7049-T73,,75,65,517.11,448.16,12,135,,,,44,303.37,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 596",7049-T7352,,75,63,517.11,434.37,11,135,,,,43,296.47,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 597","7050-T73510, T73511",,72,63,496.42,434.37,12,,,,,,,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 598",7050-T7451f,,76,68,524,468.84,11,,,,,44,303.37,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 599",7050-T7651,,80,71,551.58,489.53,11,,,,,47,324.05,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 600",7075-O,,33,15,227.53,103.42,16.5,60,,,,22,151.68,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 601","7075-T6, T651",,83,73,572.27,503.32,42,11,,,,150,1034.21,48,330.95
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 602",Alclad 7075-O,,32,14,220.63,96.53,15.5,,,,,,,22,151.68
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 603","Alclad 7075-T6, T651",,76,67,524,461.95,71.5,11,,,,,,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 604",7178-O,,33,15,227.53,103.42,15.5,,,,,,,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 605","7178-T6, T651",,88,78,606.74,537.79,44,11,,,,,,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 606","7178-T76, T7651",,83,73,572.27,503.32,78,,,,,11,75.84,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 607",Alclad 7178-O,,32,14,220.63,96.53,15,,,,,,,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 608","Alclad 7178-T6, T651",,81,71,558.48,489.53,76,10,,,,,,,
+Metal,Aluminium,Wrought Alloys,"Machinery's Handbook 27th edition, Pg. 609",8176-H24,,17,14,117.21,96.53,14.5,,,,,,,10,68.95
